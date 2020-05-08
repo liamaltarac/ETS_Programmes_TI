@@ -1,4 +1,4 @@
-# Programmes TI ELE431
+# Programmes TI-Nspire ELE431
 
 ## Fonctions: 
 
